@@ -1,8 +1,8 @@
 ## 👋 Hello, Everybody!
 
-[en-US] Computer Science student, looking for an opportunity to gain experience as a developer. Currently, I have knowledge and more familiarity with the following technologies HTML5, CSS3, JavaScript, WordPress, Linux, Notion, Git and GitHub. In addition, I'm looking to expand my knowledge as much as possible in other languages ​​and tools, such as Java, Kotlin, Dart, Flutter, Angular, Docker, MySQL and AWS
+[en-US] Computer Science student, looking for an opportunity to gain experience as a developer. Currently, I have knowledge and more familiarity with the following technologies HTML5, CSS3, JavaScript, Linux, Notion, Git and GitHub. In addition, I'm looking to expand my knowledge as much as possible in other languages and tools, such as Java, Kotlin, Dart, Flutter, Angular, Docker, MySQL and AWS
 
-[pt-BR] Estudante de Ciências da Computação, busco oportunidade para adquirir experiência como desenvolvedor. Atualmente, tenho conhecimentos e mais familiaridade com as seguintes tecnologias HTML5, CSS3, JavaScript, WordPress, Linux, Notion, Git e GitHub. Além disso, estou buscando ampliar o máximo meus conhecimentos em outras linguagens e ferramentas, como, Java, Kotlin, Dart, Flutter, Angular, Docker, MySQL e AWS.
+[pt-BR] Estudante de Ciências da Computação, busco oportunidade para adquirir experiência como desenvolvedor. Atualmente, tenho conhecimentos e mais familiaridade com as seguintes tecnologias HTML5, CSS3, JavaScript, Linux, Notion, Git e GitHub. Além disso, estou buscando ampliar o máximo meus conhecimentos em outras linguagens e ferramentas, como, Java, Kotlin, Dart, Flutter, Angular, Docker, MySQL e AWS.
 
 <br>
 
