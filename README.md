@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), full-stack developer. I am passionate about programming because I can create and innovate through code while drinking coffee. Also, seeking a first professional opportunity to gain experience as a developer in a team. In my spare time, I write articles on [Medium](https://#) and post video demonstrations of my projects on my [YouTube Channel](https://www.youtube.com/@marchetticodes).
+Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), full-stack developer. I am passionate about programming because I can create and innovate through code while drinking coffee. Also, seeking a first professional opportunity to gain experience as a developer in a team. In my spare time, I write articles on [Medium](https://medium.com/@marchetticodes/subscribe) and post video demonstrations of my projects on my [YouTube Channel](https://www.youtube.com/@marchetticodes).
 
 ✉️ Contact with me: [E-mail](mailto:contato@marchetticodes.com)
 
