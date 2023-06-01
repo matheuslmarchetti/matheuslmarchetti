@@ -17,7 +17,7 @@ Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), full-stack developer
 ✉️ Contact with me: [E-mail](mailto:contato@marchetticodes.com)
 
 **Languages and Tools I Use:**  
-Ruby | Ruby on Rails | Node.js | JavaScript | TypeScript | Angular | MySQL | MongoDB | Git
+
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
