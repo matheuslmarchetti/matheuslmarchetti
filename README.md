@@ -1,4 +1,4 @@
-### Welcome 🧑‍💻️
+## Welcome 🧑‍💻️
 <a href="https://instagram.com/marchetti.codes?igshid=NGExMmI2YTkyZg==">
   <img align="left" alt="Matheus L. Marchetti | Instagram" width="30px" src="https://marchetticodes.com/images/icon-instagram.svg" />
 </a>
@@ -21,7 +21,7 @@ Also, two other back-end technologies I'm looking to study are Node.js and Ruby 
 ✉️ Contact with me: [E-mail](mailto:lunguinhomarchetti@gmail.com)
 
 ## Tech Stack
-***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"></code>
 
 ***Front-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/brillout/awesome-angular-components/master/angular-logo.svg"></code>
 
