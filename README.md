@@ -12,9 +12,13 @@
 <br />
 <br />
 
-Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), back-end developer. I am passionate about programming because I can create and innovate through code while drinking coffee. Also, seeking a first professional opportunity to gain experience as a developer in a team.
+Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), back-end developer in training and a Computer Science college student, looking for my first professional opportunity to gain experience.
 
-✉️ Contact with me: [E-mail](mailto:contato@marchetticodes.com)
+I am currently giving priority to back-end development studies with Java and Spring Boot, but I also complement my learning with knowledge in front-end and database respectively with Angular, MySQL and MongoDB. 
+
+Also, two other back-end technologies I'm looking to study are Node.js and Ruby to broaden my knowledge.
+
+✉️ Contact with me: [E-mail](mailto:lunguinhomarchetti@gmail.com)
 
 **Languages and Tools I Use:**  
 
