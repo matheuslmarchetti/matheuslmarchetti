@@ -16,12 +16,10 @@ Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), back-end developer i
 
 I am currently giving priority to back-end development studies with Java and Spring Boot, but I also complement my learning with knowledge in front-end and database respectively with Angular, MySQL and MongoDB. 
 
-Also, two other back-end technologies I'm looking to study are Node.js and Ruby to broaden my knowledge.
-
 ✉️ Contact with me: [E-mail](mailto:lunguinhomarchetti@gmail.com)
 
 ## Tech Stack
-***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"></code>
+***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 
 ***Front-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/brillout/awesome-angular-components/master/angular-logo.svg"></code>
 
