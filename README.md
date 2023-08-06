@@ -1,4 +1,5 @@
 ## Welcome 🧑‍💻️
+
 <a href="https://instagram.com/marchetti.codes?igshid=NGExMmI2YTkyZg==">
   <img align="left" alt="Matheus L. Marchetti | Instagram" width="30px" src="https://marchetticodes.com/images/icon-instagram.svg" />
 </a>
@@ -19,6 +20,7 @@ I am currently giving priority to back-end development studies with Java and Spr
 ✉️ Contact with me: [E-mail](mailto:lunguinhomarchetti@gmail.com)
 
 ## Tech Stack
+
 ***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 
 ***Front-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/brillout/awesome-angular-components/master/angular-logo.svg"></code>
@@ -27,5 +29,4 @@ I am currently giving priority to back-end development studies with Java and Spr
 
 ***Operational System:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matheuslmarchetti&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="matheuslmarchetti" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=great-gatsby"/>
