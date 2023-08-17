@@ -1,13 +1,7 @@
 ## Welcome 🧑‍💻️
 
-<a href="https://instagram.com/marchetti.codes?igshid=NGExMmI2YTkyZg==">
-  <img align="left" alt="Matheus L. Marchetti | Instagram" width="30px" src="https://marchetticodes.com/images/icon-instagram.svg" />
-</a>
 <a href="https://www.linkedin.com/in/matheuslunguinhomarchetti">
   <img align="left" alt="Matheus L. Marchetti | LinkedIn" width="30px" src="https://marchetticodes.com/images/icon-linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/@marchetticodes">
-  <img align="left" alt="Matheus L. Marchetti | YouTube" width="30px" src="https://marchetticodes.com/images/icon-youtube.svg" />
 </a>
 
 <br />
@@ -18,15 +12,5 @@ Hi, I'm [Matheus L. Marchetti](https://marchetticodes.com), back-end developer i
 I am currently giving priority to back-end development studies with Java and Spring Boot, but I also complement my learning with knowledge in front-end and database respectively with Angular, MySQL and MongoDB. 
 
 ✉️ Contact with me: [E-mail](mailto:lunguinhomarchetti@gmail.com)
-
-## Tech Stack
-
-***Back-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
-
-***Front-End:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/brillout/awesome-angular-components/master/angular-logo.svg"></code>
-
-***Database:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>&nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-
-***Operational System:*** &nbsp;<code><img  height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=great-gatsby"/>
