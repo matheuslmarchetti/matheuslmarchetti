@@ -1,13 +1,14 @@
 ## Welcome
+👋 Hello! I am a Computer Science student with a keen interest in Data Science, Machine Learning, and business process optimization.
 
-I'm Matheus L. Marchetti, a Computer Science student passionate about the energy sector and dedicated to leveraging technology to enhance processes.
+👨‍💼 Currently, I work as an Administrative Assistant I at Grupo Energisa in the Mato Grosso do Sul unit, where I am part of the Large Clients and Public Sector Coordination team. My main responsibilities include developing process automations and improvements through RPA (Robotic Process Automation) and conducting data analyses to support strategic decision-making. Additionally, I develop support tools for managers and coordinators, enabling more efficient management and detailed process monitoring.
 
-👨‍💼 Currently, I work as an Administrative Assistant I at Grupo Energisa in Mato Grosso do Sul. In the Coordination for Large Clients and Public Sector, I focus on developing automations and process improvements using RPA's, along with conducting data analysis to support decision-making. My goal is to integrate my expertise in Computer Science with the specific demands of the energy sector, developing tools that optimize operations and provide strategic insights.
+🔧 I utilize tools such as Python, Power BI, Excel, and SQL to create solutions that add value to the business, enhance operational efficiency, and generate strategic insights.
 
-🔧 My primary tools include Python, Power BI, Excel, and SQL, which I use to create solutions that not only add value to the business but also improve operational efficiency.
+📈 I am currently advancing my skills in BPMN (Business Process Model and Notation) and exploring the Bizagi software for process modeling. Furthermore, I am deepening my knowledge in Data Science and Machine Learning to broaden my capabilities in developing data-driven and analytical solutions.
 
-📚 I am committed to expanding my knowledge in the energy sector and emerging technologies, aiming to specialize at the intersection of Computer Science and Energy.
+📚 My goal is to build expertise in these areas to contribute innovations that enhance decision-making and optimize business processes, always focused on adding value and driving progress in the market.
 
-Let's connect and explore new opportunities for collaboration!
+Let’s connect and explore new collaboration opportunities!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
