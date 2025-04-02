@@ -1,14 +1,84 @@
-## Welcome
-👋 Hello! I am a Computer Science student with a keen interest in Data Science, Machine Learning, and business process optimization.
+# Matheus Marchetti
+## Cientista de Dados & Especialista em Automação de Processos
 
-👨‍💼 Currently, I work as an Administrative Assistant I at Grupo Energisa in the Mato Grosso do Sul unit, where I am part of the Large Clients and Public Sector Coordination team. My main responsibilities include developing process automations and improvements through RPA (Robotic Process Automation) and conducting data analyses to support strategic decision-making. Additionally, I develop support tools for managers and coordinators, enabling more efficient management and detailed process monitoring.
+### 👋 Sobre Mim
+Olá! Sou estudante de Ciência da Computação apaixonado por Data Science, Machine Learning e otimização de processos empresariais. Busco constantemente aplicar análises de dados e automação para resolver problemas complexos e gerar insights valiosos.
 
-🔧 I utilize tools such as Python, Power BI, Excel, and SQL to create solutions that add value to the business, enhance operational efficiency, and generate strategic insights.
+### 💼 Experiência Profissional
+Atualmente trabalho como Assistente Administrativo I no **Grupo Energisa** (unidade Mato Grosso do Sul), na equipe de Coordenação de Grandes Clientes e Setor Público, onde:
 
-📈 I am currently advancing my skills in BPMN (Business Process Model and Notation) and exploring the Bizagi software for process modeling. Furthermore, I am deepening my knowledge in Data Science and Machine Learning to broaden my capabilities in developing data-driven and analytical solutions.
+- **Desenvolvo automações** utilizando RPA (Robotic Process Automation) para otimizar fluxos de trabalho
+- **Realizo análises de dados** para embasar decisões estratégicas e identificar oportunidades de melhoria
+- **Crio ferramentas de suporte** para gestores e coordenadores, permitindo monitoramento detalhado e gestão eficiente
 
-📚 My goal is to build expertise in these areas to contribute innovations that enhance decision-making and optimize business processes, always focused on adding value and driving progress in the market.
+### 🛠️ Stack Tecnológico
+```
+Python | SQL | Power BI | Excel | RPA | BPMN | Bizagi
+```
 
-Let’s connect and explore new collaboration opportunities!
+### 📊 Projetos Destacados
+- [Projeto 1: Análise preditiva de inadimplência]
+- [Projeto 2: Dashboard para monitoramento de KPIs]
+- [Projeto 3: Automação de processos administrativos]
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
+### 📈 Objetivos de Carreira
+Estou focado em expandir minhas competências em:
+- **Data Science**: Análise exploratória, visualização e modelos estatísticos
+- **Machine Learning**: Algoritmos preditivos e técnicas de aprendizado supervisionado/não-supervisionado
+- **Modelagem de Processos**: Aprimorando conhecimentos em BPMN e Bizagi
+
+### 🎓 Formação e Certificações
+- Bacharelado em Ciência da Computação (em andamento)
+- [Certificação em Data Science]
+- [Certificação em Business Intelligence]
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleomarchetti/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
+</p>
+
+---
+
+# Matheus Marchetti
+## Data Scientist & Process Automation Specialist
+
+### 👋 About Me
+Hello! I'm a Computer Science student passionate about Data Science, Machine Learning, and business process optimization. I constantly seek to apply data analysis and automation to solve complex problems and generate valuable insights.
+
+### 💼 Professional Experience
+I currently work as an Administrative Assistant I at **Grupo Energisa** (Mato Grosso do Sul unit), in the Large Clients and Public Sector Coordination team, where I:
+
+- **Develop automations** using RPA (Robotic Process Automation) to optimize workflows
+- **Perform data analyses** to support strategic decisions and identify improvement opportunities
+- **Create support tools** for managers and coordinators, enabling detailed monitoring and efficient management
+
+### 🛠️ Tech Stack
+```
+Python | SQL | Power BI | Excel | RPA | BPMN | Bizagi
+```
+
+### 📊 Featured Projects
+- [Project 1: Predictive modeling for delinquency]
+- [Project 2: KPI monitoring dashboard]
+- [Project 3: Administrative process automation]
+
+### 📈 Career Goals
+I'm focused on expanding my skills in:
+- **Data Science**: Exploratory analysis, visualization, and statistical models
+- **Machine Learning**: Predictive algorithms and supervised/unsupervised learning techniques
+- **Process Modeling**: Enhancing knowledge in BPMN and Bizagi
+
+### 🎓 Education & Certifications
+- Bachelor's Degree in Computer Science (in progress)
+- [Data Science Certification]
+- [Business Intelligence Certification]
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleomarchetti/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
+</p>
