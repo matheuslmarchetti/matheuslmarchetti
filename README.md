@@ -33,7 +33,7 @@ Estou focado em expandir minhas competências em:
 - [Certificação em Business Intelligence]
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheuslunguinhomarchetti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
 
 ---
 
@@ -72,7 +72,7 @@ I'm focused on expanding my skills in:
 - [Business Intelligence Certification]
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheuslunguinhomarchetti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
