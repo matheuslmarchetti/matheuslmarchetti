@@ -1,4 +1,4 @@
-# Matheus Marchetti
+# Matheus L. Marchetti
 
 👋 Olá! Sou profissional de dados atuando no setor de energia, com experiência prática no desenvolvimento de dashboards (Power BI), análise de dados com Python (Pandas, NumPy) e consultas em SQL. Atualmente trabalho no Grupo Energisa, onde já contribuo para projetos que apoiam a tomada de decisão de grandes clientes e do setor público.
 
