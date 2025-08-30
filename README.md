@@ -1,76 +1,12 @@
 # Matheus Marchetti
-## Cientista de Dados & Especialista em Automação de Processos
 
-### 👋 Sobre Mim
-Olá! Sou estudante de Ciência da Computação apaixonado por Data Science, Machine Learning e otimização de processos empresariais. Busco constantemente aplicar análises de dados e automação para resolver problemas complexos e gerar insights valiosos.
+👋 Olá! Sou profissional de dados atuando no setor de energia, com experiência prática no desenvolvimento de dashboards (Power BI), análise de dados com Python (Pandas, NumPy) e consultas em SQL. Atualmente trabalho no Grupo Energisa, onde já contribuo para projetos que apoiam a tomada de decisão de grandes clientes e do setor público.
 
-### 💼 Experiência Profissional
-Atualmente trabalho como Assistente Administrativo I no **Grupo Energisa** (unidade Mato Grosso do Sul), na equipe de Coordenação de Grandes Clientes e Setor Público, onde:
+🎯 Estou em transição para a área de Engenharia de Machine Learning/IA, seguindo um plano de estudos sólido que abrange desde fundamentos matemáticos e estatísticos até Machine Learning, Deep Learning, APIs com FastAPI e MLOps em Cloud.
 
-- **Desenvolvo automações** utilizando RPA (Robotic Process Automation) para otimizar fluxos de trabalho
-- **Realizo análises de dados** para embasar decisões estratégicas e identificar oportunidades de melhoria
-- **Crio ferramentas de suporte** para gestores e coordenadores, permitindo monitoramento detalhado e gestão eficiente
+💻 No meu GitHub você encontrará projetos que refletem essa jornada, incluindo modelos de previsão de séries temporais, análise de sentimento em notícias, otimização de carteiras financeiras e deploy de APIs em cloud.
 
-### 🛠️ Stack Tecnológico
-```
-Python | SQL | Power BI | Excel | RPA | BPMN | Bizagi
-```
-
-### 📊 Projetos Destacados
-- [Projeto 1: Análise preditiva de inadimplência]
-- [Projeto 2: Dashboard para monitoramento de KPIs]
-- [Projeto 3: Automação de processos administrativos]
-
-### 📈 Objetivos de Carreira
-Estou focado em expandir minhas competências em:
-- **Data Science**: Análise exploratória, visualização e modelos estatísticos
-- **Machine Learning**: Algoritmos preditivos e técnicas de aprendizado supervisionado/não-supervisionado
-- **Modelagem de Processos**: Aprimorando conhecimentos em BPMN e Bizagi
-
-### 🎓 Formação e Certificações
-- Bacharelado em Ciência da Computação (em andamento)
-- [Certificação em Data Science]
-- [Certificação em Business Intelligence]
-
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
-
----
-
-# Matheus Marchetti
-## Data Scientist & Process Automation Specialist
-
-### 👋 About Me
-Hello! I'm a Computer Science student passionate about Data Science, Machine Learning, and business process optimization. I constantly seek to apply data analysis and automation to solve complex problems and generate valuable insights.
-
-### 💼 Professional Experience
-I currently work as an Administrative Assistant I at **Grupo Energisa** (Mato Grosso do Sul unit), in the Large Clients and Public Sector Coordination team, where I:
-
-- **Develop automations** using RPA (Robotic Process Automation) to optimize workflows
-- **Perform data analyses** to support strategic decisions and identify improvement opportunities
-- **Create support tools** for managers and coordinators, enabling detailed monitoring and efficient management
-
-### 🛠️ Tech Stack
-```
-Python | SQL | Power BI | Excel | RPA | BPMN | Bizagi
-```
-
-### 📊 Featured Projects
-- [Project 1: Predictive modeling for delinquency]
-- [Project 2: KPI monitoring dashboard]
-- [Project 3: Administrative process automation]
-
-### 📈 Career Goals
-I'm focused on expanding my skills in:
-- **Data Science**: Exploratory analysis, visualization, and statistical models
-- **Machine Learning**: Predictive algorithms and supervised/unsupervised learning techniques
-- **Process Modeling**: Enhancing knowledge in BPMN and Bizagi
-
-### 🎓 Education & Certifications
-- Bachelor's Degree in Computer Science (in progress)
-- [Data Science Certification]
-- [Business Intelligence Certification]
-
+🚀 Meu foco é aplicar IA em finanças e energia, transformando dados em soluções inteligentes e escaláveis.
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
 
