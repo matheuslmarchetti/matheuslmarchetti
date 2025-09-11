@@ -7,9 +7,9 @@
 💻 No meu GitHub você encontrará projetos que refletem essa jornada, incluindo modelos de previsão de séries temporais, análise de sentimento em notícias, otimização de carteiras financeiras e deploy de APIs em cloud.
 
 🚀 Meu foco é aplicar IA em finanças e energia, transformando dados em soluções inteligentes e escaláveis.
-### 📫 Contact
+
+### 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&layout=compact&langs_count=10&theme=dark"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&hide_progress=true&show_icons=false&theme=dark&custom_title=Linguagens%20Mais%20Usadas)
