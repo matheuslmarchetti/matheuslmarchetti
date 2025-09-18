@@ -11,7 +11,3 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmarchetti&hide_progress=true&show_icons=false&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
-</p>
